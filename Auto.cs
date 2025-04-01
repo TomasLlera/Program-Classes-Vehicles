@@ -18,6 +18,7 @@ namespace Motos
         }
         public override void MostrarInformacion() // Método
         {
+            Console.WriteLine("Tipo de vehículo: Auto");
             Console.WriteLine("Marca: " + Marca);
             Console.WriteLine("Velocidad máxima: " + VelocidadMaxima);
             Console.WriteLine("Cantidad de puertas: " + CantPuertas);

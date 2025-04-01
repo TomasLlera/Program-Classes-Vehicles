@@ -18,9 +18,10 @@ namespace Motos
 
         public override void MostrarInformacion() // Método
         {
+            Console.WriteLine("Tipo de vehículo: Moto");
             Console.WriteLine("Marca: " + Marca);
             Console.WriteLine("Velocidad máxima: " + VelocidadMaxima);
-            Console.WriteLine("Tiene casco: " + TieneCasco);
+            Console.WriteLine($"{(TieneCasco ? "Sí" : "No")} tiene casco.");
         }
     }
 }
