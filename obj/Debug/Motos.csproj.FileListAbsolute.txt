@@ -1,0 +1,7 @@
+C:\Users\tomas\source\repos\Motos\bin\Debug\Motos.exe.config
+C:\Users\tomas\source\repos\Motos\bin\Debug\Motos.exe
+C:\Users\tomas\source\repos\Motos\bin\Debug\Motos.pdb
+C:\Users\tomas\source\repos\Motos\obj\Debug\Motos.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\Motos\obj\Debug\Motos.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Motos\obj\Debug\Motos.exe
+C:\Users\tomas\source\repos\Motos\obj\Debug\Motos.pdb
