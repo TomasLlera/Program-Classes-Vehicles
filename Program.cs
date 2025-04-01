@@ -18,11 +18,17 @@ namespace Motos
             new Moto("Harley-Davidson", 160, true) // Creación de objetos
         };
 
-            Console.WriteLine("Información de los vehículos:"); // Mostrar información de los vehículos
+            Console.WriteLine("Información de los vehículos:");
+            Console.WriteLine("====================================");
+
             foreach (var vehiculo in vehiculos)
             {
-                vehiculo.MostrarInformacion(); // Llamada al método
+                Console.WriteLine("------------------------------------");
+                vehiculo.MostrarInformacion();
+                Console.WriteLine("------------------------------------");
             }
+
+            Console.WriteLine("====================================");
             Console.ReadKey(); 
         }
     }
